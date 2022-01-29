@@ -28,7 +28,7 @@
     > a { /* post's title */
       @extend %no-bottom-border;
 
-      font-size: 1.1rem;
+      font-size: 1.0rem;  /* 1.1rem */
     }
 
     > span:last-child {
@@ -38,11 +38,11 @@
 }
 
 #page-tag h1 > i { // tag icon
-  font-size: 1.2rem;
+  font-size: 1.1rem;  /* 1.2rem */
 }
 
 #page-category h1 > i {
-  font-size: 1.25rem;
+  font-size: 1.15rem;  /* 1.25rem */
 }
 
 #page-category,

@@ -67,13 +67,13 @@
     }
 
     h1 {
-      font-size: 1.4rem;
+      font-size: 1.3rem; /* 1.4 rem */
       margin: 0;
     }
 
     .post-meta {
       i {
-        font-size: 0.73rem;
+        font-size: 0.67rem;  /* 0.73rem */
 
         &:not(:first-child) {
           margin-left: 1.2rem;
@@ -154,7 +154,7 @@
   }
 
   .pagination {
-    font-size: 0.85rem;
+    font-size: 0.75rem;   /* 0.85rem */
 
     .page-item {
       &:not(:last-child) {

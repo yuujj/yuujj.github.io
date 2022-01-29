@@ -21,6 +21,12 @@ layout: compress
     {% include mode-toggle.html %}
   {% endunless %}
 
+{% comment %} 22.01.29 {% endcomment %}
+  {% if page.use_math %}
+    {% include mathjax_support.html %}
+  {% endif %}
+
+  
   <body data-spy="scroll" data-target="#toc">
 
     {% include sidebar.html %}
