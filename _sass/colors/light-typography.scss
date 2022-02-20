@@ -61,13 +61,13 @@
   --tag-border: #dee2e6;
   --tag-shadow: var(--btn-border-color);
   --tag-hover: rgb(222, 226, 230);
-  --tb-odd-bg: #fbfcfd;
+  --tb-odd-bg: #fbfcfd; //fbfcfd
   --tb-border-color: #eaeaea;
   --dash-color: silver;
   --preview-img-bg: radial-gradient(circle, rgb(255 255 255) 0%, rgb(249 249 249) 100%);
   --kbd-wrap-color: #bdbdbd;
   --kbd-text-color: var(--text-color);
-  --kbd-bg-color: white;
+  --kbd-bg-color: rgb(151, 72, 72);
 
   /* Categories */
   --categories-hover-bg: var(--btn-border-color);
